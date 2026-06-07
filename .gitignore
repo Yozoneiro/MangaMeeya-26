@@ -1,0 +1,14 @@
+target/
+dist/
+test-output/
+windows/portable-data/
+portable-data/
+*.pdb
+*.exe
+*.dll
+*.dylib
+*.so
+*.log
+.DS_Store
+.vscode/
+.idea/
